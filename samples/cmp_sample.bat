@@ -1,0 +1,1 @@
+g++ hashing-benefits.cpp -o hashing-benfits.exe -std=c++0x
